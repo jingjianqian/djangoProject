@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: .MOOT=F007B44D926758F9F70B6B37AA825EBA92B765C3E07B6058AA55F2C79993468E2CD5EA0099D31E50F8BC6BAC2AEFD637DBBF0BBCC6502E11733EC708A1DAB18CA09DC1C1C3233EC1B5A273951CC60FA0F49C01DEA638F898140006146176FD18; path="/"; domain="www.51moot.net"; path_spec; expires="2022-10-21 12:13:17Z"; version=0
+Set-Cookie3: ASP.NET_SessionId=lnthky3j02iriciiafmmyxgh; path="/"; domain="www.51moot.net"; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: SERVERID="437c58b9408a714478cb7b838493ada4|1666267997|1666267997"; path="/"; domain="www.51moot.net"; path_spec; discard; version=0
